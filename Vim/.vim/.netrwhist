@@ -1,0 +1,4 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =2
+let g:netrw_dirhist_1='/home/chumin/code/android-build/prj_rain200p/system/external/wpa_supplicant_8'
+let g:netrw_dirhist_2='/home/chumin/code/android-build/prj_rain200p/system/vendor/intel/apps/PRIVATE/Aware/libs/libgesture'
